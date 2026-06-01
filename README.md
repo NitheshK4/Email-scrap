@@ -1,4 +1,4 @@
-# 📧 Email Scraper — Professional Email Scraping Toolkit with BeautifulSoup4!
+# 📧 Email Scraper — Professional Email Scraping Toolkit with BeautifulSoup4
 
 A production-ready, ethical email scraping project that covers **quality**, **accuracy**, **compliance**, and all major **use-cases** of email data collection.
 
